@@ -6,7 +6,7 @@ A simple package to fetch PINCODE Details
 ## Usage/Examples
 
 ```
-from pin import getpin
+from IndianPinCodes import getpin
 
 getpin(110001)
 
