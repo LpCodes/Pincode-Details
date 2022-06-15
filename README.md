@@ -3,6 +3,13 @@
 
 A simple package to fetch PINCODE Details
 
+## Installation
+
+```bash
+pip install IndianPinCodes
+```
+    
+    
 ## Usage/Examples
 
 ```

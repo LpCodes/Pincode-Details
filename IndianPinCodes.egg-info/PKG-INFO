@@ -1,0 +1,57 @@
+Metadata-Version: 2.1
+Name: IndianPinCodes
+Version: 0.0.2
+Summary: A package for fetching details for the pincode provided
+Home-page: https://github.com/LpCodes/Pincode-Details
+Author: Lpcodes
+Project-URL: Bug Tracker, https://github.com/LpCodes/Pincode-Details/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+
+# Indian Postal PIN Code Details
+
+A simple package to fetch PINCODE Details
+
+## Usage/Examples
+
+```
+from IndianPinCodes import getpin
+
+getpin(110001)
+
+Info for Pincode 110001 is as follows 
+
+Name --> Supreme Court
+
+Region --> Delhi
+
+District --> Central Delhi
+
+Division --> New Delhi Central
+
+Region --> Delhi
+
+Block --> New Delhi
+
+Circle --> Delhi
+
+State --> Delhi
+
+```
+
+## Authors
+
+- [@LpCodes](https://github.com/LpCodes)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+## Contributing
+
+Contributions are always welcome!
