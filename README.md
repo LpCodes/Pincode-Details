@@ -1,9 +1,11 @@
+![PyPI - Downloads](https://img.shields.io/pypi/dm/IndianPinCodes?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/LpCodes/Pincode-Details?style=for-the-badge)
+
 
 # Indian Postal PIN Code Details
 
-A simple package to fetch PINCODE Details
+A simple package to fetch Indian PINCODE Details
 
-![PyPI - Downloads](https://img.shields.io/pypi/dm/IndianPinCodes?style=for-the-badge)
+
 ## Installation
 
 ```bash
@@ -50,6 +52,4 @@ State --> Delhi
 ## Contributing
 
 Contributions are always welcome!
-
-![GitHub last commit](https://img.shields.io/github/last-commit/LpCodes/Pincode-Details?style=for-the-badge)
 
