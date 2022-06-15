@@ -50,4 +50,4 @@ State --> Delhi
 
 Contributions are always welcome!
 
-https://img.shields.io/github/last-commit/LpCodes/Pincode-Details
+![GitHub last commit](https://img.shields.io/github/last-commit/LpCodes/Pincode-Details?style=for-the-badge)
