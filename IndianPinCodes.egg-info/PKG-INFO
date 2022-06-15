@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: IndianPinCodes
-Version: 0.0.2
+Version: 0.0.3
 Summary: A package for fetching details for the pincode provided
 Home-page: https://github.com/LpCodes/Pincode-Details
 Author: Lpcodes
@@ -11,11 +11,21 @@ Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 
+![PyPI - Downloads](https://img.shields.io/pypi/dm/IndianPinCodes?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/LpCodes/Pincode-Details?style=for-the-badge)
+
 
 # Indian Postal PIN Code Details
 
-A simple package to fetch PINCODE Details
+A simple package to fetch Indian PINCODE Details
 
+
+## Installation
+
+```bash
+pip install IndianPinCodes
+```
+    
+    
 ## Usage/Examples
 
 ```
@@ -55,3 +65,4 @@ State --> Delhi
 ## Contributing
 
 Contributions are always welcome!
+
