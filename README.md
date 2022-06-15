@@ -49,3 +49,5 @@ State --> Delhi
 ## Contributing
 
 Contributions are always welcome!
+
+https://img.shields.io/github/last-commit/LpCodes/Pincode-Details
