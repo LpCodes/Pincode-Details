@@ -3,8 +3,7 @@
 
 A simple package to fetch PINCODE Details
 
-![PyPI - Downloads](https://img.shields.io/pypi/dm/IndianPinCodes)
-
+![PyPI - Downloads](https://img.shields.io/pypi/dm/IndianPinCodes?style=for-the-badge)
 ## Installation
 
 ```bash
