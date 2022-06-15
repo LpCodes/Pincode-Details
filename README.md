@@ -3,6 +3,8 @@
 
 A simple package to fetch PINCODE Details
 
+![PyPI - Downloads](https://img.shields.io/pypi/dm/IndianPinCodes)
+
 ## Installation
 
 ```bash
@@ -51,3 +53,4 @@ State --> Delhi
 Contributions are always welcome!
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/LpCodes/Pincode-Details?style=for-the-badge)
+
