@@ -1,10 +1,12 @@
-import setuptools
+from setuptools import find_packages, setup
+
+
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
-setuptools.setup(
+setup(
     name="IndianPinCodes",
-    version="1.0.0",
+    version="0.0.1",
     author="Lpcodes",
     description="A package for fetching details for the pincode provided",
     long_description=long_description,
@@ -18,6 +20,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    packages=setuptools.find_packages(),
-    python_requires=">=3.6",
-)
+    packages=find_packages(),
+    python_requires=">=3.6",)
