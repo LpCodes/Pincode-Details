@@ -3,7 +3,9 @@ pyproject.toml
 setup.py
 IndianPinCodes/__init__.py
 IndianPinCodes/pin.py
+IndianPinCodes.egg-info/=3.6
 IndianPinCodes.egg-info/PKG-INFO
 IndianPinCodes.egg-info/SOURCES.txt
 IndianPinCodes.egg-info/dependency_links.txt
+IndianPinCodes.egg-info/requires.txt
 IndianPinCodes.egg-info/top_level.txt

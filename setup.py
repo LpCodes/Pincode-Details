@@ -21,11 +21,5 @@ setup(
         "Operating System :: OS Independent",
     ],
     packages=find_packages(),
-    install_requires=[
-
-        '<requests>',
-
-
-
-    ]
+    install_requires='requests',
     python_requires=">=3.6",)
