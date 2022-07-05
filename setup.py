@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="IndianPinCodes",
-    version="0.0.3",
+    version="0.0.4",
     author="Lpcodes",
     description="A package for fetching details for the pincode provided",
     long_description=long_description,
@@ -21,4 +21,11 @@ setup(
         "Operating System :: OS Independent",
     ],
     packages=find_packages(),
+    install_requires=[
+
+        '<requests>',
+
+
+
+    ]
     python_requires=">=3.6",)
