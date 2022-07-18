@@ -1,4 +1,5 @@
-![PyPI - Downloads](https://img.shields.io/pypi/dm/IndianPinCodes?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/LpCodes/Pincode-Details?style=for-the-badge)    ![PyPI](https://img.shields.io/pypi/v/IndianPinCodes?style=for-the-badge)
+[![Downloads](https://static.pepy.tech/personalized-badge/indianpincodes?period=total&units=none&left_color=grey&right_color=green&left_text=Downloads)](https://pepy.tech/project/indianpincodes)
+![GitHub last commit](https://img.shields.io/github/last-commit/LpCodes/Pincode-Details?style=for-the-badge)    ![PyPI](https://img.shields.io/pypi/v/IndianPinCodes?style=for-the-badge)
 
 
 # Indian Postal PIN Code Details
