@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="IndianPinCodes",
-    version="0.0.4",
+    version="0.0.7",
     author="Lpcodes",
     description="A package for fetching details for the pincode provided",
     long_description=long_description,
