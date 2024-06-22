@@ -1,20 +1,17 @@
 [![Downloads](https://static.pepy.tech/personalized-badge/indianpincodes?period=total&units=none&left_color=grey&right_color=green&left_text=Downloads)](https://pepy.tech/project/indianpincodes)
 ![GitHub last commit](https://img.shields.io/github/last-commit/LpCodes/Pincode-Details?style=for-the-badge)    ![PyPI](https://img.shields.io/pypi/v/IndianPinCodes?style=for-the-badge)
 
-
-# Indian Postal PIN Code Details
+# Indian Postal PIN Code Details :postbox:
 
 A simple package to fetch Indian PINCODE Details
 
-
-## Installation
+## Installation :computer:
 
 ```bash
 pip install IndianPinCodes
 ```
-    
-    
-## Usage/Examples
+
+## Usage/Examples :bulb:
 
 ```
 from IndianPinCodes import getpin
@@ -41,16 +38,15 @@ State --> Delhi
 
 ```
 
-## Authors
+## Authors :busts_in_silhouette:
 
 - [@LpCodes](https://github.com/LpCodes)
 
-
-## License
+## License :page_facing_up:
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Contributing
+## Contributing :raised_hands:
 
 Contributions are always welcome!
 
